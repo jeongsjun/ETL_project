@@ -47,7 +47,7 @@ ETL_project/
 
 ### ▶️ 실행
 #### 1. 파일 이관
-Ubuntu 환경에 파일 이관 (ex : home/ubuntu/pywork_etl/codeset
+Ubuntu 환경에 파일 이관 (ex : home/ubuntu/pywork_etl/codeset)
 1) etl_collect_app.py
 2) etl_join_app.py
 3) requirements.txt
