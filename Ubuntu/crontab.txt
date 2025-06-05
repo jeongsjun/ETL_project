@@ -1,0 +1,1 @@
+* * * * * /home/ubuntu/pywork_etl/auto_join.sh >> /home/ubuntu/pywork_etl/auto_join_out.log 2>&1
